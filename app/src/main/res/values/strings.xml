@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">天院2048</string>
+    <string name="score">得分：</string>
+</resources>
